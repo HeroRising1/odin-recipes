@@ -2,8 +2,8 @@
     background-color: blueviolet;
 }
 .titles {
-    background-color: red;
-    color: blue;
+    background-color:#A79595;
+    color: #1E008A;
     font-size: 40px;
     text-align: center;
 }
@@ -16,6 +16,11 @@
     background-color: black;
     color: red;
     font-size: large;
-
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
 
 }
