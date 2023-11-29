@@ -1,0 +1,21 @@
+.all {
+    background-color: blueviolet;
+}
+.titles {
+    background-color: red;
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+.list {
+    text-align: center;
+    font-size: 120px;
+}
+.listed {
+    text-align: justify;
+    background-color: black;
+    color: red;
+    font-size: large;
+
+
+}
